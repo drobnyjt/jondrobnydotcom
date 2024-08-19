@@ -1705,7 +1705,8 @@ $.magnificPopup.registerModule('gallery', {
 
 		tPrev: 'Previous (Left arrow key)',
 		tNext: 'Next (Right arrow key)',
-		tCounter: '%curr% of %total%'
+		titleSrc: function(item) {return item.el.attr('title') + 'by Jon Drobny';},
+		tCounter: '%curr%/%total%'
 	},
 
 	proto: {
