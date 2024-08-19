@@ -1,6 +1,6 @@
 ---
-title: "Songbirds"
-excerpt: "Finches, <br/><img src='/images/songbirds/500x300.png'>"
+title: "Photos of Songbirds"
+excerpt: "Finches, Sparrows, Warblers, and More<br/><img src='/images/songbirds/500x300.png'>"
 collection: portfolio
 ---
 
@@ -10,17 +10,3 @@ collection: portfolio
 | [![alt](/images/songbirds/3.jpg)](/images/songbirds/3.jpg) | [![alt](/images/songbirds/6.jpg)](/images/songbirds/6.jpg) | [![alt](/images/songbirds/8.jpg)](/images/songbirds/8.jpg) |
 | [![alt](/images/songbirds/9.jpg)](/images/songbirds/9.jpg) | [![alt](/images/songbirds/10.jpg)](/images/songbirds/10.jpg) | [![alt](/images/songbirds/15.jpg)](/images/songbirds/15.jpg) |
 | [![alt](/images/songbirds/16.jpg)](/images/songbirds/16.jpg) | [![alt](/images/songbirds/17.jpg)](/images/songbirds/17.jpg) | [![alt](/images/songbirds/21.jpg)](/images/songbirds/21.jpg) |
-
-
-
-
-
-
-
-
-
-
-
-#[![alt](/images/songbirds/12.jpg)](/images/songbirds/12.jpg)
-#[![alt](/images/songbirds/5.jpg)](/images/songbirds/5.jpg)
-#[![alt](/images/songbirds/7.jpg)](/images/songbirds/7.jpg)
