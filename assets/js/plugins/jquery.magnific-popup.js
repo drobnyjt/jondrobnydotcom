@@ -1168,7 +1168,7 @@ $.magnificPopup.registerModule('image', {
 					'</figure>'+
 				'</div>',
 		cursor: 'mfp-zoom-out-cur',
-		titleSrc: 'title',
+		titleSrc: function(item) {return item.el.attr('title') + 'by Jon Drobny';},
 		verticalFit: true,
 		tError: '<a href="%url%">The image</a> could not be loaded.'
 	},
