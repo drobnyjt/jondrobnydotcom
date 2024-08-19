@@ -1,6 +1,6 @@
 ---
 title: "Photos of Songbirds"
-excerpt: "Finches, Sparrows, Warblers, and More<br/><a href="/portfolio/portfolio-1/"><img src='/images/songbirds/500x300.png'></a>"
+excerpt: "Finches, Sparrows, Warblers, and More<br/><img src='/images/songbirds/500x300.png'>"
 collection: portfolio
 ---
 
