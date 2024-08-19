@@ -3,6 +3,11 @@ title: "Photos of Songbirds"
 excerpt: "Finches, Sparrows, Warblers, and More<br/><img src='/images/songbirds/500x300.png'>"
 collection: portfolio
 ---
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 
 | [![alt](/images/songbirds/1.jpg)](/images/songbirds/1.jpg) | [![alt](/images/songbirds/2.jpg)](/images/songbirds/2.jpg) | [![alt](/images/songbirds/18.jpg)](/images/songbirds/18.jpg) |
 | [![alt](/images/songbirds/4.jpg)](/images/songbirds/4.jpg) | [![alt](/images/songbirds/13.jpg)](/images/songbirds/13.jpg) | [![alt](/images/songbirds/11.jpg)](/images/songbirds/11.jpg) |
