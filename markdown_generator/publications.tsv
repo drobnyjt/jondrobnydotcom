@@ -1,2 +1,2 @@
 pub_date	title	venue	excerpt	citation	url_slug	paper_url	slides_url
-2021-08-31	RustBCA	JOSS	Simulating ion-material interactions; it's free and open-source too!	DOI:10.21105/joss.03298	rustbca	http://jondrobny.com/files/10.21105.joss.03298.pdf	None
+2021-08-31	RustBCA	JOSS	Simulating ion-material interactions; it's free and open-source too!	10.21105/joss.03298	rustbca	/files/10.21105.joss.03298.pdf	None
